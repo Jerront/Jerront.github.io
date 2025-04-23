@@ -1,0 +1,49 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Header Section Styling */
+#header {
+    background-color: #4CAF50; /* Green background for header */
+    color: white;
+    padding: 20px;
+}
+
+/* Navigation Section Styling */
+#nav {
+    background-color: #f4f4f4; /* Light gray background for nav */
+    padding: 10px;
+    text-align: center;
+}
+
+#nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+#nav a:hover {
+    color: #3498db; /* Blue color on hover */
+}
+
+/* Main Section Content Styling */
+#section {
+    background-color: #e0e0e0; /* Light gray background for the section */
+    padding: 20px;
+}
+
+/* Section Heading Styling */
+#section section h2 {
+    color: #2c3e50; /* Dark gray color for headings */
+}
+
+/* Ensure the site is centered */
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
